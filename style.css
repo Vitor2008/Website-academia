@@ -894,6 +894,18 @@ footer h6{
     margin-right: 217px;
 }
 
+.end-dois a{
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+
+.end-dois a:hover{
+    transform: scale(1.2);
+    transition: .3s;
+    color: aqua;
+}
+
 
 /* Estilo Mobile */
 
